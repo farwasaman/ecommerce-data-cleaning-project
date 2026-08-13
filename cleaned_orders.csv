@@ -1,0 +1,19 @@
+order_id,customer_name,email,order_date,product_category,quantity,unit_price,city,total_amount
+1001,Ali Raza,ali.raza@gmail.com,2024-01-05,Electronics,2.0,15000.0,Islamabad,30000.0
+1002,Sara Khan,SARA.KHAN@yahoo.com,2024-01-06,Electronics,1.0,45000.0,Lahore,45000.0
+1003,Bilal Ahmed,bilal_ahmed@gmail.com,2024-01-07,Clothing,3.0,2500.0,Karachi,7500.0
+1004,Ayesha Malik,Not Provided,2024-01-08,Home & Kitchen,1.0,3200.0,Islamabad,3200.0
+1006,Hamza Sheikh,hamza.sheikh@hotmail.com,2024-01-09,Clothing,2.0,1800.0,Rawalpindi,3600.0
+1007,Zara Iqbal,zara.iqbal@gmail.com,2024-01-10,Electronics,1.0,18750.0,Lahore,18750.0
+1008,Usman Tariq,usman.tariq@gmail.com,2024-01-11,Electronics,4.0,15000.0,Islamabad,60000.0
+1009,Fatima Noor,fatima.noor@gmail.com,2024-01-12,Home & Kitchen,2.0,4100.0,Karachi,8200.0
+1010,Unknown,noemail@gmail.com,2024-01-13,Clothing,1.0,2200.0,Lahore,2200.0
+1011,Ahmed Raza,ahmed.raza@gmail.com,2024-01-13,Books,5.0,900.0,Islamabad,4500.0
+1012,Sana Malik,sana.malik@gmail.com,2024-01-14,Books,2.0,850.0,Karachi,1700.0
+1014,Nida Farooq,nida.farooq@gmail.com,2024-01-15,Electronics,1.0,22000.0,Lahore,22000.0
+1015,Omar Sheikh,omar.sheikh@gmail.com,2024-01-16,Home & Kitchen,3.0,3200.0,Islamabad,9600.0
+1016,Hina Aslam,hina.aslam@gmail.com,2024-01-17,Clothing,1.0,1900.0,Rawalpindi,1900.0
+1017,Junaid Chaudhry,junaid.c@gmail.com,2024-01-18,Books,2.0,750.0,Karachi,1500.0
+1018,Mariam Yousaf,mariam.yousaf@gmail.com,2024-01-19,Electronics,1.0,999999.0,Islamabad,999999.0
+1019,Tariq Javed,tariq.javed@gmail.com,2024-01-20,Electronics,2.0,15500.0,Lahore,31000.0
+1020,Ayesha Malik,ayesha.malik@gmail.com,2024-01-08,Home & Kitchen,1.0,3200.0,Islamabad,3200.0
